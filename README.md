@@ -1,4 +1,4 @@
-# 🚓FiveM EmergencyCars ( 19 Cars )
+# 👕FiveM ClothingPack ( replaces almost all clothing )
 
 ## ⭐CREDITS / ❗Copyright
 **Hey, the clothing were NOT created by me! I don't know which people I downloaded the clothing from. I used this clothing a year ago and want to release this pack because I don't play FiveM anymore and want to help some people. If you are also one of the creators, just create a pull request/issues!**
@@ -12,6 +12,11 @@ Hey we mix together some clothing and used this 1 year ago. All clothing were no
 - Pants
 - Vest
 - Wrist watches
+
+### ⚙️Server.cfg
+```
+start Fivem-ClothingPack
+```
 
 ### ⚠️ This pack replaces most of the clothing!
 
