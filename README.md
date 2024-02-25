@@ -1,5 +1,6 @@
 <h1 align="center">👕FiveM ClothingPack ( replaces almost all clothing )</h1>
 <p align="center">
+    <img alt="" src="https://img.shields.io/github/stars/Zerofour04/FiveM-ClothingPack.svg?style=flat">
     <img alt="" src="https://madewithlove.now.sh/de?heart=true&colorB=%23ec2237&template=for-the-badge">
     <img alt="" src="https://img.shields.io/github/followers/Zerofour04.svg?style=for-the-badge&label=Follow&maxAge=2592000">
 </p>
